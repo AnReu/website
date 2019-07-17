@@ -1,4 +1,4 @@
-baseurl = "https://anreu.github.io"
+baseurl = "https://anreu.github.io/website/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Beautiful Hugo"
